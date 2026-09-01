@@ -3,3 +3,5 @@ requests
 numpy
 streamlit
 python-dotenv
+streamlit
+opencv-python-headless
